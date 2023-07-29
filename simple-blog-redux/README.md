@@ -20,7 +20,8 @@ This is a simple blog application built using Redux Toolkit for managing the sta
 1. Clone the repository:
 
 ```
-git clone https://github.com/asmaa-elfatayry/simple-blog.git
+git clone https://github.com/asmaa-elfatayry/Learning-React
+/simple-blog-redux.git
 cd simple-blog
 ```
 
