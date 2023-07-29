@@ -4,23 +4,22 @@ This repository contains a simple login application built with React, utilizing 
 
 ## Screenshots
 
-Here are some screenshots of the application:
+### Here are some screenshots of the application:
 
-1. Home Page:
-   ![Home Page](./screens/homeDesktop.png)
+<div align="center" >
+<img width="650px" height="500px"  src='./screens/homeDesktop.png' alt='homePage'/>
+<img width="650px" height="500px"  src='./screens/loginDesktop.png' alt='loginPage'/>
+<img width="650px"  height="500px" src='./screens/WelcomeDesktop.png' alt='welcomePage'/>
+   </div>
 
-2. Login Page:
-   ![Login Page](./screens/loginDesktop.png)
-
-3. Welcome Page:
-   ![Welcome Page](./screens/WelcomeDesktop.png)
-
-<img src='./screens/homeDesktop.png' alt='homePage'/>
-<img src='./screens/loginDesktop.png' alt='loginPage'/>
-<img src='./screens/WelcomeDesktop.png' alt='welcomePage'/>
-<img src='./screens/homeMobile.png' alt='homePage'/>
-<img src='./screens/loginMobile.png' alt='loginPage'/>
-<img src='./screens/WelcomeMobile.png' alt='welcomePage'/>
+### Mobile Screens
+   
+<div align="center" >
+  <img width="290px" height="500px" src="./screens/homeMobile.png" alt="homePage"/>
+  <img width="290px" height="500px" src="./screens/loginMobile.png" alt="loginPage"/>
+  <img width="290px" height="500px" src="./screens/WelcomeMobile.png" alt="welcomePage"/>
+</div>
+<br/>
 
 ## Features
 
@@ -37,7 +36,7 @@ To run the application locally, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/login-app.git
+   git clone https://github.com/asmaa-elfatayry/Learning-React/tree/main/redux_login
    ```
 
 2. Navigate to the project directory:
@@ -105,6 +104,5 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push your branch to your forked repository.
 5. Submit a pull request describing the changes you've made.
 
-## License
+If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-This project is licensed under the [MIT License](LICENSE).
