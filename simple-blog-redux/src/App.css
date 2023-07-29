@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+ min-height: 100vh;
+  background-image: url('./assets/Free-HD-Gif-Wallpapers.gif');
+  background-size: cover;
+  color: #fff;
+  background-position: center;
+  padding: 20px 0;
+  padding-bottom: 50px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+input{
+  width: 100%;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
