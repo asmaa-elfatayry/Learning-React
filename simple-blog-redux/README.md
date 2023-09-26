@@ -3,7 +3,7 @@
 This is a simple blog application built using Redux Toolkit for managing the state. It allows users to add new posts with titles and contents, and also react to the posts using emojis.
 
 ## live demo
-[demo](https://learning-react-uhlr.vercel.app/)
+[demo](https://learning-react-pied-one.vercel.app/)
 
 ## Screenshots
 
